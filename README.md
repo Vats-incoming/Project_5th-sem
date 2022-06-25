@@ -1,2 +1,2 @@
-# Project_5th-sem
+# Project
 Social distancing alarming system using arduino
